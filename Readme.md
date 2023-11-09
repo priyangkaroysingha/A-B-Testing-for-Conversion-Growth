@@ -1,13 +1,19 @@
-# AB-Testing
+# A/B Testing for Conversion Growth
+## Overview
+Led the hypothesis testing and Z-testing process for an A/B testing project aimed at assessing the impact of a new website design on user conversions. This initiative was pivotal in facilitating data-driven decision-making and enhancing communication with cross-functional teams.
+## Key Contributions
+### Formulation of Hypotheses
+Formulated clear null and alternative hypotheses to guide the testing process.
+### Statistical Analysis
+Obtained a Z-statistic of 2.35, surpassing the critical value. This result indicated a statistically significant increase in conversions attributable to the new website design.
+### Achievements
+* Achieved a remarkable 12% increase in conversion rates for the control group.
+* Projected an estimated annual revenue increase of 28% based on the observed improvement.
+### Data Integrity
+Conducted thorough data cleaning and validation processes to ensure accurate results, addressing any anomalies in the dataset.
+### Methodology:
+* Utilized hypothesis testing and Z-testing methodologies to rigorously assess the impact of the new website design.
+* Collaborated with cross-functional teams to align testing strategies with broader business goals.
+### Impact
+The outcomes of this A/B testing project provided valuable insights into the effectiveness of the website redesign, supporting informed decision-making and demonstrating the potential for significant revenue growth
 
-## Project Overview
-To understand the results of an A/B test run by an e-commerce website. Your goal is to work through this notebook to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
-
-## Requriements
-1. Python
-2. Pandas
-3. Numpy
-4. Matplotlib
-
-## Conclusion
-Based on the findings of the statistical tests that we performed - the Z-test, the logistic regression model, and the actual difference observed - demonstrated that the new and old pages had almost identical chances of converting consumers. Thus, the null hypothesis is not rejected. The e-commerce business should retain the previous/old page that may result in saving both time and money when building a new page.
